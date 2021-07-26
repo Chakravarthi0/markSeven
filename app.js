@@ -2,10 +2,6 @@ const btnTranslate = document.getElementById("btn-translate");
 const txtInput = document.getElementById("txt-input");
 const outputDiv = document.getElementById("output");
 
-// const serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
-
-// const serverURL = "https://api.funtranslations.com/translate/minion.json"
-
 
 const serverURL = "https://api.funtranslations.com/translate/dothraki.json"
 
